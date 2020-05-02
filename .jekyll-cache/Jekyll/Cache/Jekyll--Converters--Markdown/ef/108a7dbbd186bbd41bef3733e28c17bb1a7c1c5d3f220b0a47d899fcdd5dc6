@@ -1,0 +1,37 @@
+I"<<ul class="c-block-list">
+
+    
+        <li class="c-block-list__item">
+
+			<div class="c-block">
+				<h2 class="c-block__heading"><a href="/style-guide-guide/update/2017/05/14/v1.html" class="c-block__link">Version 1.0</a></h2>
+            	<div class="c-block__desc">
+					<p>Here’s the post announcing the 1.0 release of the design system. Here you would talk about what features have been added, announce any pilot projects that have been built using the design system, who’s involved, and so on.</p>
+
+<ul>
+  <li>Here’s a</li>
+  <li>Bulleted list</li>
+  <li>Of new features</li>
+</ul>
+
+				</div><!--end c-block__desc-->
+			</div><!--end c-block-->
+
+        </li><!--end c-block-list__item-->
+    
+        <li class="c-block-list__item">
+
+			<div class="c-block">
+				<h2 class="c-block__heading"><a href="/style-guide-guide/update/2017/05/13/initial-release.html" class="c-block__link">Initial Release</a></h2>
+            	<div class="c-block__desc">
+					<p>This is the blog post description announcing the initial release of the design system. Here you can talk about what contents the design system contains, where to find things, who’s involved with the system, and so on.</p>
+
+				</div><!--end c-block__desc-->
+			</div><!--end c-block-->
+
+        </li><!--end c-block-list__item-->
+    
+	
+</ul>
+<!--end c-block-list-->
+:ET

@@ -1,0 +1,2 @@
+I"�<p>Apply to the hero block’s containing HTML element. This class sets up the background-image handling and text color for the unit. The <code class="highlighter-rouge">c-hero</code> element should have just one immediate child, the <code class="highlighter-rouge">c-hero__body</code> element. Note, too, that the unit’s hero image should be applied as a background image to this <code class="highlighter-rouge">c-hero</code> element.</p>
+:ET

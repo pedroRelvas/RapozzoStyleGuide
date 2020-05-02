@@ -1,0 +1,11 @@
+I"<h2 id="people">People</h2>
+<p>Describe who’s involved in changes to the system. Describe who’s expected to do the work and who approves changes.</p>
+
+<h2 id="process">Process</h2>
+<p>Describe specifically the process or processes by which the system gets <a href="http://atomicdesign.bradfrost.com/chapter-5/#making-changes-to-patterns">updated</a>. What happens when existing component need modified? What if an entire new component needs created? What happens if a component is deprecated? See <a href="http://design.canonical.com/2016/07/getting-vanilla-ready-for-v1-the-roadmap/">Canonical’s fantastic decision tree</a> for contributing changes to their design system.</p>
+
+<p>Since a design system is made up of component code, guidelines, documentation, design tools, and resources, keep in mind you’ll likely need to define several processes to contribute each of these ingredients.</p>
+
+<h2 id="support">Support</h2>
+<p>Cross-linking to the <a href="/style-guide-guide/support.html">support page</a> is a good idea here.</p>
+:ET
