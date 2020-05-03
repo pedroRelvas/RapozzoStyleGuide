@@ -6,16 +6,40 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Style Guide Guide
-email: brad@bradfrost.com
+title: Rapozzo Style Guide
+email: josepedrobrelvas@outlook.pt
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "rapozzo-style-guide" # the subpath of your site, e.g. /blog
+baseurl: "/rapozzo-style-guide" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: brad_frost
-github_username:  bradfrost
+github_username:  pedroRelvas
+colorsFirstRow: 
+    - label: PRIMARY
+      color: '#f3efe6'
+    - label: PRIMARY VARIANT
+      color: '#494949'
+    - label: SECONDARY
+      color: '#b58a68'
+    - label: SECONDARY VARIANT
+      color: '#494949'
+
+colorsButtonSuccess: 
+    - label: PRIMARY
+      color: '#52CD89'
+    - label: SECONDARY
+      color: '#298E56'
+    - label: STROKE
+      color: '#247849'
+
+colorsButtonInfo: 
+    - label: PRIMARY
+      color: '#3797FF'
+    - label: SECONDARY
+      color: '#0064D1'
+    - label: STROKE
+      color: '#094688'
 
 # Build settings
 markdown: kramdown

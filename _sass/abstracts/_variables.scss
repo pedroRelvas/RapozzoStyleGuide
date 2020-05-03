@@ -41,7 +41,24 @@
  * 1) Main identifiable colors involved in creating the UI
  *    Feel free to add your brand's color palette here.
  */
+ $color-primary:#fff; //to define.
+ $color-primary-variant:#fff; //to define.
+ $color-secondary: #b58a68; //used in nav
+ $color-secondary-variant:#fff; //to define.
+ $color-background: #f3efe6;
+ $color-surface: #fff; //to define. Surface can be the background of an card
+ $color-error: #fff; //to define
 
+ //Info button (this button has gradient)
+ $color-b-info-stroke: #0064D1;
+ $color-b-info-primary: #3797FF;
+ $color-b-info-secondary: #0071EB;
+
+  //Success button (this button has gradient)
+  $color-b-success-stroke: #298E56;
+  $color-b-success-primary: #52CD89;
+  $color-b-success-secondary: #298E56;
+ 
 /**
  * Neutral Colors
  * 1) Neutral colors are grayscale values used throughout the application
