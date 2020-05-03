@@ -1,0 +1,67 @@
+I"•<!-- For inspiration, check out [Material Design's color styles page](https://material.io/guidelines/style/color.html).
+ -->
+<h2>Brand UI Color</h2>
+<div class="square-color-scheme">
+    
+        <div style="background-color: #f3efe6;">
+            <h5 class="">PRIMARY</h5>
+            <p class="">#f3efe6</p>
+        </div>
+    
+        <div style="background-color: #494949;">
+            <h5 class=" color-white ">PRIMARY VARIANT</h5>
+            <p class=" color-white ">#494949</p>
+        </div>
+    
+        <div style="background-color: #b58a68;">
+            <h5 class="">SECONDARY</h5>
+            <p class="">#b58a68</p>
+        </div>
+    
+        <div style="background-color: #494949;">
+            <h5 class=" color-white ">SECONDARY VARIANT</h5>
+            <p class=" color-white ">#494949</p>
+        </div>
+    
+</div>
+
+<h2>Success Button Color</h2>
+<div class="square-color-scheme">
+    
+        <div style="background-color: #3797FF;">
+            <h5 class="">PRIMARY</h5>
+            <p class="">#3797FF</p>
+        </div>
+    
+        <div style="background-color: #0064D1;">
+            <h5 class=" color-white ">SECONDARY</h5>
+            <p class=" color-white ">#0064D1</p>
+        </div>
+    
+        <div style="background-color: #094688;">
+            <h5 class=" color-white ">STROKE</h5>
+            <p class="">#094688</p>
+        </div>
+    
+</div>
+
+<h2>Info Button Color</h2>
+<div class="square-color-scheme">
+    
+        <div style="background-color: #52CD89;">
+            <h5 class="">PRIMARY</h5>
+            <p class="">#52CD89</p>
+        </div>
+    
+        <div style="background-color: #298E56;">
+            <h5 class=" color-white ">SECONDARY</h5>
+            <p class=" color-white ">#298E56</p>
+        </div>
+    
+        <div style="background-color: #247849;">
+            <h5 class=" color-white ">STROKE</h5>
+            <p class=" color-white ">#247849</p>
+        </div>
+    
+</div>
+:ET

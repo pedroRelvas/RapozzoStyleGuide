@@ -1,0 +1,25 @@
+.square-color-scheme{
+    display: flex;
+    div {
+        height:150px;
+        -ms-flex: 1;  /* IE 10 */  
+        flex: 1;
+        position: relative;
+        h5{
+            padding-left: 15px;
+            padding-right: 15px;
+            &.color-white{
+                color: $color-white;
+            }
+        }
+        p{
+            position: absolute;
+            right: 10px;
+            bottom: 0;
+
+            &.color-white{
+                color: $color-white;
+            }
+        }
+    }
+}
